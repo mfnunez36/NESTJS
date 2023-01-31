@@ -1,0 +1,5 @@
+export enum AppRoles {
+  USER_GENERAL = 'USER_GENERAL',
+  USER_ADMIN = 'USER_ADMIN',
+  USER_RESOURCE = 'USER',
+}
